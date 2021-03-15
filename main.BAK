@@ -91,8 +91,8 @@ ENDIF
 *Определение размера основного окна
 IF VERSION(2)=0
 	IF SYSMETRIC(1)>800
-		_screen.Width=1104
-		_screen.Height=817
+		_screen.Width=960
+		_screen.Height=710
 		_screen.AutoCenter=.t.
 	ELSE
 		_screen.WindowState= 2

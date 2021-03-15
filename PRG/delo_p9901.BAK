@@ -1,0 +1,29 @@
+*P9901
+*p9903
+*p9903s
+*p9907
+SELECT p9901
+SCAN
+	lll=krs
+ENDSCAN 
+SCAN
+	lll=rezkg
+ENDSCAN 
+SCAN
+	lll=dop
+ENDSCAN 
+SCAN
+	lll=sdelan
+ENDSCAN
+SELECT p9903 
+SCAN
+	lll=rezk
+ENDSCAN 
+SELECT p9903s
+SCAN
+	lll=rezi
+ENDSCAN 
+SELECT p9907
+SCAN
+	lll=dokument
+ENDSCAN 
