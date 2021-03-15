@@ -1,3 +1,4 @@
+*************
 PARAMETERS packet,nzappolz
 PUBLIC def_path,PATH_DATA,false,true
 false=.f.
